@@ -8,9 +8,9 @@ const App = () => {
 	const expenses = [
 		{
 			id: "e1",
-			title: "Toilet Paper",
-			amount: 94.12,
-			date: new Date(2020, 7, 14),
+			title: "New Desk (Wooden)",
+			amount: 450,
+			date: new Date(2021, 5, 12),
 		},
 		{
 			id: "e2",
@@ -26,9 +26,9 @@ const App = () => {
 		},
 		{
 			id: "e4",
-			title: "New Desk (Wooden)",
-			amount: 450,
-			date: new Date(2021, 5, 12),
+			title: "Toilet Paper",
+			amount: 94.12,
+			date: new Date(2020, 7, 14),
 		},
 	];
 
