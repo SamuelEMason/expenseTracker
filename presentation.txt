@@ -1,0 +1,29 @@
+In the tech space, open-source development has become a popular way of getting things done .
+With tools like Git and GitHub, it's easy to find open-source projects that you can,
+with a command, begin to collaborate on.
+
+With this collaborative effort, new and creative ideas are emerging at a tremendous rate.
+
+Examples: Linux, React, OpenAI, and Mozilla Firefox
+
+Other then in Tech, there are many areas that are yet to benefit from this open-source paradigm.
+
+
+	-	If you look at all the classic literature out there, you'll find many masterpieces
+		written by a single person. 
+
+	-	With movies, a script is typically written by a single person.
+
+	-	For TV, there is usually 8-12 writers on average.
+
+Think of your favorite book, movie, or TV series. Now imagine what could be possible
+with more minds on the problem. 
+
+Have any of you watched all of Game of Thrones? Imagine how much more cohesive the story could have been
+if they had hundereds of people working on it instead of waiting around for one person to generate a thousand
+page novel.
+
+This is an easy enough problem to solve and there are apps out there that do just this 
+for coding. Moving literature into the open-source space would be an enormous step forward
+and I propose that four of us do just that.
+
